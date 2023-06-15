@@ -12,7 +12,7 @@ The main relation among words in WordNet is synonymy, as between the words *shut
 
 The main database consists of eight files, namely `index.pos` and `data.pos` files for noun, verb, adjective and adverb. The index files are alphabetical orderd lists of all words in WordNet with references to the synsets in which they appear. The data files are lists of the actual synsets, containing additional information about the synsets and their relations to other synsets.  ([Documentation](https://wordnet.princeton.edu/documentation/wndb5wn))
 
-#### **`index.pos`**
+#### **index.pos**
 
 **Strucutre**:  
 `lemma pos  synset_cnt  p_cnt  [ptr_symbol...]  sense_cnt  tagsense_cnt   synset_offset  [synset_offset...]`
@@ -21,7 +21,7 @@ The main database consists of eight files, namely `index.pos` and `data.pos` fil
 `ebony a 1 1 & 1 0 00389231`  
 
 
-#### **`data.pos`**
+#### **data.pos**
 
 **Structure**:  
 `synset_offset  lex_filenum  ss_type  w_cnt  word  lex_id  [word  lex_id...]  p_cnt  [ptr...]  [frames...]  |   gloss `
