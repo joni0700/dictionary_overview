@@ -57,7 +57,7 @@ Sense id is the same as in SALDO. The example is given in the attribute *val*. T
 
 Links
 
-<a id="saldo_1">1</a> Words that are *semantic neighbors* are words that have a direct semantic relation to each other (synonym, hyponym, meronym, ..) [↩](#saldo_a1)
+<a id="saldo_1">1</a> Words that are *semantic neighbors* are words that have a direct semantic relation to each other (synonym, hyponym, meronym, ..)
 
 <a id="saldo_paper">2013</a>
 Lars Borin et al. (2013) SALDO: a touch of yin to WordNet's yang. Language resources and evaluation, 47 (4), 1191-121
