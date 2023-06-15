@@ -3,7 +3,7 @@
 
 ---
 
-WordNet® is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each 
+WordNet® is a large lexical database. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each 
 expressing a distinct concept. Synsets are interlinked by means of conceptual-semantic and lexical relations. [read more...](https://wordnet.princeton.edu/)
 
 The main relation among words in WordNet is synonymy, as between the words *shut* and *close* or *car* and *automobile*. Each of WordNet’s ~117 000 synsets is linked to other synsets by means of a small number of “conceptual relations.” Additionally, a synset contains a brief definition (“gloss”) and, in most cases,<sup id="wn_a1">[1](#wn_1)</sup> one or more short sentences illustrating the use of the synset members.
