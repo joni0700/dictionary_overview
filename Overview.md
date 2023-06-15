@@ -7,7 +7,7 @@
         <td><b>Licence</b></td>
     </tr>
     <tr>
-        <td><a href="#wordnet">WordNet</a></td>
+        <td><a href="https://github.com/joni0700/dictionary_overview/blob/main/WordNet.md">WordNet</a></td>
         <td>English</td>
         <td>Semantic Network</td>
         <td>CC BY-SA 3.0</td>
