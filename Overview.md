@@ -1,4 +1,4 @@
-## OVERVIEW OVER ALL DICTIONARIES
+## OVERVIEW OVER ALL RESOURCES
 <table>
     <tr>
         <td><b>Dictionary</b></td>
