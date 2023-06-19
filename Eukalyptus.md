@@ -3,7 +3,7 @@
 
 ---
 
-Eukalyptus is a Collection of Swedish sense annotated data. The collection consists of five different genres:
+Eukalyptus is a collection of Swedish sense annotated data. The collection consists of five different genres:
 - Blogg (annotated blog posts)
 - Europarl (annotated EU parliament proceedings)
 - Nyheter (annotated news articles)
